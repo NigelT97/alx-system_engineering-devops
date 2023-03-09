@@ -1,2 +1,2 @@
 #!/bin/bash
-chmd o=rwx
+chmod o=rwx
